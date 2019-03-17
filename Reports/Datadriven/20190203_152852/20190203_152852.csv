@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Datadriven,Chrome 71.0.3578.98,,2019-02-03 15:29:00,2019-02-03 15:34:32,5m - 31.975s,PASSED
+,,,,,,
+Test Cases/Datadriven,Chrome 71.0.3578.98,,2019-02-03 15:29:01,2019-02-03 15:34:32,5m - 30.887s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 71.0.3578.98,,2019-02-03 15:29:01,2019-02-03 15:29:02,0.949s,ERROR
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-02-03 15:29:03,2019-02-03 15:29:59,56.120s,PASSED
+maximizeWindow(),Chrome 71.0.3578.98,,2019-02-03 15:29:59,2019-02-03 15:30:02,3.397s,PASSED
+"for ([rowNum = 1, rowNum <= 5, (rowNum++)])",Chrome 71.0.3578.98,,2019-02-03 15:30:02,2019-02-03 15:34:28,4m - 26.060s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 71.0.3578.98,,2019-02-03 15:34:28,2019-02-03 15:34:32,3.225s,PASSED

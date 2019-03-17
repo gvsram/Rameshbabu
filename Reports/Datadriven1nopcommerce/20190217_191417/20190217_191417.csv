@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Datadriven1nopcommerce,Chrome 72.0.3626.109,,2019-02-17 19:14:32,2019-02-17 19:17:59,3m - 27.046s,FAILED
+,,,,,,
+Test Cases/Datadriven1nopcommerce,Chrome 72.0.3626.109,,2019-02-17 19:14:34,2019-02-17 19:16:48,2m - 14.182s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-17 19:14:34,2019-02-17 19:14:37,3.346s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-17 19:14:37,2019-02-17 19:14:37,0.015s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.109,,2019-02-17 19:14:38,2019-02-17 19:15:33,55.343s,PASSED
+"navigateToUrl(""https://www.nopcommerce.com/register.aspx"")",Chrome 72.0.3626.109,,2019-02-17 19:15:33,2019-02-17 19:15:57,23.209s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/FirstName""), FirstName)",Chrome 72.0.3626.109,,2019-02-17 19:15:57,2019-02-17 19:16:12,15.481s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/Lastname""), LastName)",Chrome 72.0.3626.109,,2019-02-17 19:16:12,2019-02-17 19:16:20,8.332s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/E-Mail""), EMail)",Chrome 72.0.3626.109,,2019-02-17 19:16:20,2019-02-17 19:16:29,8.533s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/Username""), Username)",Chrome 72.0.3626.109,,2019-02-17 19:16:29,2019-02-17 19:16:37,8.514s,PASSED
+"selectOptionByLabel(findTestObject(""Datadriven_OR/Datadriven1/Countrydropdown""), Country, false)",Chrome 72.0.3626.109,,2019-02-17 19:16:37,2019-02-17 19:16:44,6.463s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-17 19:16:44,2019-02-17 19:16:48,3.899s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-17 19:16:48,2019-02-17 19:16:48,0.009s,PASSED
+,,,,,,
+Test Cases/Datadriven1nopcommerce,Chrome 72.0.3626.109,,2019-02-17 19:16:48,2019-02-17 19:17:58,1m - 10.377s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-17 19:16:48,2019-02-17 19:16:48,0.036s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-17 19:16:48,2019-02-17 19:16:48,0.016s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.109,,2019-02-17 19:16:48,2019-02-17 19:17:10,21.152s,PASSED
+"navigateToUrl(""https://www.nopcommerce.com/register.aspx"")",Chrome 72.0.3626.109,,2019-02-17 19:17:10,2019-02-17 19:17:16,6.762s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/FirstName""), FirstName)",Chrome 72.0.3626.109,,2019-02-17 19:17:16,2019-02-17 19:17:25,8.722s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/Lastname""), LastName)",Chrome 72.0.3626.109,,2019-02-17 19:17:25,2019-02-17 19:17:33,8.259s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/E-Mail""), EMail)",Chrome 72.0.3626.109,,2019-02-17 19:17:33,2019-02-17 19:17:42,8.510s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/Username""), Username)",Chrome 72.0.3626.109,,2019-02-17 19:17:42,2019-02-17 19:17:50,8.493s,PASSED
+"selectOptionByLabel(findTestObject(""Datadriven_OR/Datadriven1/Countrydropdown""), Country, false)",Chrome 72.0.3626.109,,2019-02-17 19:17:50,2019-02-17 19:17:55,4.971s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-17 19:17:55,2019-02-17 19:17:58,3.145s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-17 19:17:58,2019-02-17 19:17:58,0.008s,PASSED

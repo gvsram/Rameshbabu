@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Testhook,,,2019-03-17 12:10:25,2019-03-17 12:10:27,2.482s,FAILED
+,,,,,,
+Test Cases/Testlisteners,,,2019-03-17 12:10:26,2019-03-17 12:10:27,1.448s,FAILED
+Start listener action : sampleBeforeTestCase,,,2019-03-17 12:10:26,2019-03-17 12:10:27,0.810s,ERROR
+"openBrowser("""")",,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.009s,NOT_RUN
+maximizeWindow(),,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.063s,FAILED
+Start listener action : sampleAfterTestCase,,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.062s,PASSED
+,,,,,,
+Test Cases/Testlisteners,,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.111s,FAILED
+Start listener action : sampleBeforeTestCase,,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.042s,ERROR
+"openBrowser("""")",,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.003s,NOT_RUN
+maximizeWindow(),,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.017s,FAILED
+Start listener action : sampleAfterTestCase,,,2019-03-17 12:10:27,2019-03-17 12:10:27,0.011s,PASSED

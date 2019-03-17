@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login1</name>
+   <tag></tag>
+   <elementGuidId>9207287c-1e06-472d-8c65-310f61e91ec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;ctl00_ctl00_cph1_cph1_ctrlCustomerLogin_LoginForm_LoginButton&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;ctl00_ctl00_cph1_cph1_ctrlCustomerLogin_LoginForm_LoginButton&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Datadriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50547532-2480-424d-806c-d85867f2cb2e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86bdaa47-5bd7-4b88-92ff-62db0470c6c8</id>
+      <masked>false</masked>
+      <name>Firtsname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02e0cab7-d3a0-45ef-b36e-109e612b68e9</id>
+      <masked>false</masked>
+      <name>Lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32811b18-5757-4074-b01a-5a15bafe8579</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdb3b7e5-f242-4675-9ba0-3b897f8e7a25</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6281396a-1466-481a-bd41-95bdb476321e</id>
+      <masked>false</masked>
+      <name>Confirm</name>
+   </variable>
+</TestCaseEntity>

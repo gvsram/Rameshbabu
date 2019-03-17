@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Testhook,Chrome 72.0.3626.121,,2019-03-17 12:28:17,2019-03-17 12:28:45,27.437s,FAILED
+,,,,,,
+Test Cases/TestListener,Chrome 72.0.3626.121,,2019-03-17 12:28:18,2019-03-17 12:28:45,26.480s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.121,,2019-03-17 12:28:18,2019-03-17 12:28:19,0.918s,ERROR
+"openBrowser("""")",Chrome 72.0.3626.121,,2019-03-17 12:28:19,2019-03-17 12:28:33,13.715s,PASSED
+maximizeWindow(),Chrome 72.0.3626.121,,2019-03-17 12:28:33,2019-03-17 12:28:36,3.185s,PASSED
+"click(findTestObject(""Nopcommerce/Products""))",Chrome 72.0.3626.121,,2019-03-17 12:28:36,2019-03-17 12:28:42,5.307s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.121,,2019-03-17 12:28:42,2019-03-17 12:28:45,2.962s,PASSED

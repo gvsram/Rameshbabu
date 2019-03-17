@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Testhook,Chrome 72.0.3626.121,,2019-03-17 21:40:48,2019-03-17 21:43:09,2m - 20.694s,PASSED
+,,,,,,
+Test Cases/TestListener,Chrome 72.0.3626.121,,2019-03-17 21:40:49,2019-03-17 21:41:44,55.150s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.121,,2019-03-17 21:40:49,2019-03-17 21:41:28,39.114s,PASSED
+maximizeWindow(),Chrome 72.0.3626.121,,2019-03-17 21:41:29,2019-03-17 21:41:32,3.258s,PASSED
+"click(findTestObject(""Nopcommerce/Products""))",Chrome 72.0.3626.121,,2019-03-17 21:41:32,2019-03-17 21:41:37,4.716s,PASSED
+"click(findTestObject(""Nopcommerce/Downloads""))",Chrome 72.0.3626.121,,2019-03-17 21:41:37,2019-03-17 21:41:41,4.135s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.121,,2019-03-17 21:41:41,2019-03-17 21:41:44,3.302s,PASSED
+,,,,,,
+Test Cases/TestListener1,Chrome 72.0.3626.121,,2019-03-17 21:41:44,2019-03-17 21:42:40,56.254s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.121,,2019-03-17 21:41:44,2019-03-17 21:42:01,16.315s,PASSED
+maximizeWindow(),Chrome 72.0.3626.121,,2019-03-17 21:42:01,2019-03-17 21:42:04,3.157s,PASSED
+"click(findTestObject(""Object Repository/Nopcommerce/Registerlink""))",Chrome 72.0.3626.121,,2019-03-17 21:42:04,2019-03-17 21:42:12,7.950s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/FirstName""), ""Rameshbabu"")",Chrome 72.0.3626.121,,2019-03-17 21:42:12,2019-03-17 21:42:21,8.803s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/Lastname""), ""Gvs"")",Chrome 72.0.3626.121,,2019-03-17 21:42:21,2019-03-17 21:42:29,8.296s,PASSED
+"setText(findTestObject(""Datadriven_OR/Datadriven1/E-Mail""), ""ramgvs4@gmail.com"")",Chrome 72.0.3626.121,,2019-03-17 21:42:29,2019-03-17 21:42:37,8.336s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.121,,2019-03-17 21:42:37,2019-03-17 21:42:40,3.006s,PASSED
+,,,,,,
+Test Cases/TestListener,Chrome 72.0.3626.121,,2019-03-17 21:42:40,2019-03-17 21:43:09,28.068s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.121,,2019-03-17 21:42:41,2019-03-17 21:42:54,13.514s,PASSED
+maximizeWindow(),Chrome 72.0.3626.121,,2019-03-17 21:42:54,2019-03-17 21:42:57,3.152s,PASSED
+"click(findTestObject(""Nopcommerce/Products""))",Chrome 72.0.3626.121,,2019-03-17 21:42:57,2019-03-17 21:43:01,4.243s,PASSED
+"click(findTestObject(""Nopcommerce/Downloads""))",Chrome 72.0.3626.121,,2019-03-17 21:43:01,2019-03-17 21:43:06,4.188s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.121,,2019-03-17 21:43:06,2019-03-17 21:43:09,2.933s,PASSED

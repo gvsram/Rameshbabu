@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Checkpoint</source-url>
+   </source-info>
+   <taken-date>2019-02-24T11:14:17.42</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "RameshbabuGvs",
+      "checked": true
+    },
+    {
+      "value": "Ramesh123$",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "RameshbabuGvs",
+      "checked": true
+    },
+    {
+      "value": "Ramesh123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "RameshbabuGvs",
+      "checked": false
+    },
+    {
+      "value": "Ramesh125",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

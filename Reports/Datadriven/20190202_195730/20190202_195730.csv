@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Datadriven,Chrome 71.0.3578.98,,2019-02-02 19:57:39,2019-02-02 20:02:49,5m - 9.960s,PASSED
+,,,,,,
+Test Cases/Datadriven,Chrome 71.0.3578.98,,2019-02-02 19:57:40,2019-02-02 19:58:54,1m - 14.620s,PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-02-02 19:57:40,2019-02-02 19:57:55,14.542s,PASSED
+maximizeWindow(),Chrome 71.0.3578.98,,2019-02-02 19:57:55,2019-02-02 19:57:58,3.184s,PASSED
+"navigateToUrl(""https://accounts.google.com/signup"")",Chrome 71.0.3578.98,,2019-02-02 19:57:58,2019-02-02 19:58:04,5.374s,PASSED
+"setText(findTestObject(""Datadriven_OR/FIrst name""), Firtsname)",Chrome 71.0.3578.98,,2019-02-02 19:58:04,2019-02-02 19:58:12,8.760s,PASSED
+"setText(findTestObject(""Datadriven_OR/Last name""), Lastname)",Chrome 71.0.3578.98,,2019-02-02 19:58:12,2019-02-02 19:58:21,8.608s,PASSED
+"setText(findTestObject(""Datadriven_OR/Username""), Username)",Chrome 71.0.3578.98,,2019-02-02 19:58:21,2019-02-02 19:58:30,9.222s,PASSED
+"setText(findTestObject(""Datadriven_OR/Password""), Password)",Chrome 71.0.3578.98,,2019-02-02 19:58:30,2019-02-02 19:58:39,9.000s,PASSED
+"setText(findTestObject(""Datadriven_OR/Confirm""), Confirm)",Chrome 71.0.3578.98,,2019-02-02 19:58:39,2019-02-02 19:58:48,9.038s,PASSED
+"click(findTestObject(""Datadriven_OR/Next""))",Chrome 71.0.3578.98,,2019-02-02 19:58:48,2019-02-02 19:58:54,6.048s,PASSED
+,,,,,,
+Test Cases/Datadriven,Chrome 71.0.3578.98,,2019-02-02 19:58:54,2019-02-02 20:00:06,1m - 11.566s,PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-02-02 19:58:54,2019-02-02 19:59:05,10.820s,PASSED
+maximizeWindow(),Chrome 71.0.3578.98,,2019-02-02 19:59:05,2019-02-02 19:59:08,3.193s,PASSED
+"navigateToUrl(""https://accounts.google.com/signup"")",Chrome 71.0.3578.98,,2019-02-02 19:59:08,2019-02-02 19:59:13,4.767s,PASSED
+"setText(findTestObject(""Datadriven_OR/FIrst name""), Firtsname)",Chrome 71.0.3578.98,,2019-02-02 19:59:13,2019-02-02 19:59:22,8.938s,PASSED
+"setText(findTestObject(""Datadriven_OR/Last name""), Lastname)",Chrome 71.0.3578.98,,2019-02-02 19:59:22,2019-02-02 19:59:31,8.776s,PASSED
+"setText(findTestObject(""Datadriven_OR/Username""), Username)",Chrome 71.0.3578.98,,2019-02-02 19:59:31,2019-02-02 19:59:40,9.460s,PASSED
+"setText(findTestObject(""Datadriven_OR/Password""), Password)",Chrome 71.0.3578.98,,2019-02-02 19:59:40,2019-02-02 19:59:49,8.984s,PASSED
+"setText(findTestObject(""Datadriven_OR/Confirm""), Confirm)",Chrome 71.0.3578.98,,2019-02-02 19:59:49,2019-02-02 19:59:58,9.069s,PASSED
+"click(findTestObject(""Datadriven_OR/Next""))",Chrome 71.0.3578.98,,2019-02-02 19:59:58,2019-02-02 20:00:06,7.491s,PASSED
+,,,,,,
+Test Cases/Datadriven,Chrome 71.0.3578.98,,2019-02-02 20:00:06,2019-02-02 20:01:32,1m - 26.166s,PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-02-02 20:00:06,2019-02-02 20:00:24,17.603s,PASSED
+maximizeWindow(),Chrome 71.0.3578.98,,2019-02-02 20:00:24,2019-02-02 20:00:27,3.173s,PASSED
+"navigateToUrl(""https://accounts.google.com/signup"")",Chrome 71.0.3578.98,,2019-02-02 20:00:27,2019-02-02 20:00:38,11.311s,PASSED
+"setText(findTestObject(""Datadriven_OR/FIrst name""), Firtsname)",Chrome 71.0.3578.98,,2019-02-02 20:00:38,2019-02-02 20:00:47,8.618s,PASSED
+"setText(findTestObject(""Datadriven_OR/Last name""), Lastname)",Chrome 71.0.3578.98,,2019-02-02 20:00:47,2019-02-02 20:00:55,8.634s,PASSED
+"setText(findTestObject(""Datadriven_OR/Username""), Username)",Chrome 71.0.3578.98,,2019-02-02 20:00:55,2019-02-02 20:01:07,11.281s,PASSED
+"setText(findTestObject(""Datadriven_OR/Password""), Password)",Chrome 71.0.3578.98,,2019-02-02 20:01:07,2019-02-02 20:01:16,9.269s,PASSED
+"setText(findTestObject(""Datadriven_OR/Confirm""), Confirm)",Chrome 71.0.3578.98,,2019-02-02 20:01:16,2019-02-02 20:01:26,10.328s,PASSED
+"click(findTestObject(""Datadriven_OR/Next""))",Chrome 71.0.3578.98,,2019-02-02 20:01:26,2019-02-02 20:01:32,5.897s,PASSED
+,,,,,,
+Test Cases/Datadriven,Chrome 71.0.3578.98,,2019-02-02 20:01:32,2019-02-02 20:02:46,1m - 13.782s,PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-02-02 20:01:32,2019-02-02 20:01:45,12.571s,PASSED
+maximizeWindow(),Chrome 71.0.3578.98,,2019-02-02 20:01:45,2019-02-02 20:01:48,3.168s,PASSED
+"navigateToUrl(""https://accounts.google.com/signup"")",Chrome 71.0.3578.98,,2019-02-02 20:01:48,2019-02-02 20:01:56,7.817s,PASSED
+"setText(findTestObject(""Datadriven_OR/FIrst name""), Firtsname)",Chrome 71.0.3578.98,,2019-02-02 20:01:56,2019-02-02 20:02:04,8.553s,PASSED
+"setText(findTestObject(""Datadriven_OR/Last name""), Lastname)",Chrome 71.0.3578.98,,2019-02-02 20:02:04,2019-02-02 20:02:13,8.528s,PASSED
+"setText(findTestObject(""Datadriven_OR/Username""), Username)",Chrome 71.0.3578.98,,2019-02-02 20:02:13,2019-02-02 20:02:22,9.566s,PASSED
+"setText(findTestObject(""Datadriven_OR/Password""), Password)",Chrome 71.0.3578.98,,2019-02-02 20:02:22,2019-02-02 20:02:31,9.061s,PASSED
+"setText(findTestObject(""Datadriven_OR/Confirm""), Confirm)",Chrome 71.0.3578.98,,2019-02-02 20:02:31,2019-02-02 20:02:40,9.103s,PASSED
+"click(findTestObject(""Datadriven_OR/Next""))",Chrome 71.0.3578.98,,2019-02-02 20:02:40,2019-02-02 20:02:46,5.367s,PASSED

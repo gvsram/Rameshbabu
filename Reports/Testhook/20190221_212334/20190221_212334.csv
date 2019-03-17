@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Testhook,Chrome 72.0.3626.109,,2019-02-21 21:23:43,2019-02-21 21:25:19,1m - 35.876s,FAILED
+,,,,,,
+Test Cases/Testlisteners,Chrome 72.0.3626.109,,2019-02-21 21:23:44,2019-02-21 21:25:18,1m - 33.235s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-21 21:23:44,2019-02-21 21:23:48,3.185s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-21 21:23:48,2019-02-21 21:24:22,34.852s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.109,,2019-02-21 21:24:23,2019-02-21 21:24:23,0.010s,NOT_RUN
+delay(10),Chrome 72.0.3626.109,,2019-02-21 21:24:23,2019-02-21 21:24:33,10.058s,PASSED
+"setText(findTestObject(""Login""), ""ramgvs4@gmail.com"")",Chrome 72.0.3626.109,,2019-02-21 21:24:33,2019-02-21 21:24:43,9.917s,PASSED
+delay(10),Chrome 72.0.3626.109,,2019-02-21 21:24:43,2019-02-21 21:24:53,10.005s,PASSED
+"setText(findTestObject(""Password""), ""Ramesh1213#"")",Chrome 72.0.3626.109,,2019-02-21 21:24:53,2019-02-21 21:25:01,8.346s,PASSED
+delay(10),Chrome 72.0.3626.109,,2019-02-21 21:25:01,2019-02-21 21:25:11,10.004s,PASSED
+"click(findTestObject(""Register""))",Chrome 72.0.3626.109,,2019-02-21 21:25:11,2019-02-21 21:25:14,2.812s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-21 21:25:14,2019-02-21 21:25:18,3.541s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-21 21:25:18,2019-02-21 21:25:18,0.011s,PASSED

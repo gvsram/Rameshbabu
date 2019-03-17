@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Datadriven" time="294" tests="4" failures="0" errors="0">
+   <testsuite name="Datadriven" tests="4" failures="0" errors="0" time="294" timestamp="2019-02-02 18:29:07" hostname="Ramesh - TEJA" id="Test Suites/Datadriven">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Ramesh\\Katalon Studio\\Rameshbabu\\Reports\\Datadriven\\20190202_182902"/>
+         <property name="logFiles" value="C:\\Users\\Ramesh\\Katalon Studio\\Rameshbabu\\Reports\\Datadriven\\20190202_182902\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ramesh - TEJA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="browser" value="Chrome 71.0.3578.98"/>
+         <property name="hostAddress" value="192.168.0.117"/>
+         <property name="sessionId" value="65b6c55c8616caa5f8ffb3d925e33c6e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Datadriven" classname="Test Cases/Datadriven" status="PASSED">
+         <system-out><![CDATA[2019-02-02 18:29:08 - [TEST_CASE][PASSED] - Test Cases/Datadriven: Test Cases/Datadriven
+
+2019-02-02 18:29:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-02-02 18:29:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-02 18:29:10 - [MESSAGE][INFO] - Action delay is set to 2 seconds
+
+2019-02-02 18:29:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-02-02 18:29:20 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-02 18:29:24 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-02 18:29:24 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/signup"): Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:29:29 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:29:29 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/FIrst name"), Firtsname): Text 'Ramesh' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:29:38 - [MESSAGE][PASSED] - Text 'Ramesh' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:29:38 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Last name"), Lastname): Text 'Gvs' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:29:46 - [MESSAGE][PASSED] - Text 'Gvs' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:29:46 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Username"), Username): Text 'ramgvs4@gmail.om' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:29:55 - [MESSAGE][PASSED] - Text 'ramgvs4@gmail.om' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:29:55 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Password"), Password): Text 'Ramesh123#' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:30:04 - [MESSAGE][PASSED] - Text 'Ramesh123#' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:30:04 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Confirm"), Confirm): Text 'Ramesh123#' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:30:13 - [MESSAGE][PASSED] - Text 'Ramesh123#' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:30:13 - [TEST_STEP][PASSED] - click(findTestObject("Datadriven_OR/Next")): Object: 'Object Repository/Datadriven_OR/Next' is clicked on
+
+2019-02-02 18:30:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Datadriven_OR/Next' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Datadriven" classname="Test Cases/Datadriven" status="PASSED">
+         <system-out><![CDATA[2019-02-02 18:30:19 - [TEST_CASE][PASSED] - Test Cases/Datadriven: Test Cases/Datadriven
+
+2019-02-02 18:30:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-02-02 18:30:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-02-02 18:30:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-02 18:30:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-02-02 18:30:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-02 18:30:33 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-02 18:30:33 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/signup"): Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:30:39 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:30:39 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/FIrst name"), Firtsname): Text 'Rameshbabu' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:30:47 - [MESSAGE][PASSED] - Text 'Rameshbabu' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:30:47 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Last name"), Lastname): Text 'Gvs' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:30:56 - [MESSAGE][PASSED] - Text 'Gvs' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:30:56 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Username"), Username): Text 'ramgvs3@gmail.com' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:31:05 - [MESSAGE][PASSED] - Text 'ramgvs3@gmail.com' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:31:05 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Password"), Password): Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:31:14 - [MESSAGE][PASSED] - Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:31:14 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Confirm"), Confirm): Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:31:23 - [MESSAGE][PASSED] - Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:31:23 - [TEST_STEP][PASSED] - click(findTestObject("Datadriven_OR/Next")): Object: 'Object Repository/Datadriven_OR/Next' is clicked on
+
+2019-02-02 18:31:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Datadriven_OR/Next' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Datadriven" classname="Test Cases/Datadriven" status="PASSED">
+         <system-out><![CDATA[2019-02-02 18:31:28 - [TEST_CASE][PASSED] - Test Cases/Datadriven: Test Cases/Datadriven
+
+2019-02-02 18:31:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-02-02 18:31:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-02-02 18:31:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-02 18:31:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-02-02 18:31:39 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-02 18:31:42 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-02 18:31:42 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/signup"): Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:31:48 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:31:48 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/FIrst name"), Firtsname): Text 'Mahesh' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:31:57 - [MESSAGE][PASSED] - Text 'Mahesh' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:31:57 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Last name"), Lastname): Text 'GVS' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:32:05 - [MESSAGE][PASSED] - Text 'GVS' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:32:05 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Username"), Username): Text 'ramgvs2@gmail.com' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:32:15 - [MESSAGE][PASSED] - Text 'ramgvs2@gmail.com' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:32:15 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Password"), Password): Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:32:23 - [MESSAGE][PASSED] - Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:32:23 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Confirm"), Confirm): Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:32:32 - [MESSAGE][PASSED] - Text 'Ramesh123$' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:32:32 - [TEST_STEP][PASSED] - click(findTestObject("Datadriven_OR/Next")): Object: 'Object Repository/Datadriven_OR/Next' is clicked on
+
+2019-02-02 18:32:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Datadriven_OR/Next' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Datadriven" classname="Test Cases/Datadriven" status="PASSED">
+         <system-out><![CDATA[2019-02-02 18:32:37 - [TEST_CASE][PASSED] - Test Cases/Datadriven: Test Cases/Datadriven
+
+2019-02-02 18:32:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-02-02 18:32:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-02-02 18:32:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-02 18:32:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-02-02 18:32:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-02 18:32:54 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-02 18:32:54 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/signup"): Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:33:09 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/signup' successfully
+
+2019-02-02 18:33:09 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/FIrst name"), Firtsname): Text 'Raju' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:33:18 - [MESSAGE][PASSED] - Text 'Raju' is set on object 'Object Repository/Datadriven_OR/FIrst name'
+
+2019-02-02 18:33:18 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Last name"), Lastname): Text 'Gsn' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:33:26 - [MESSAGE][PASSED] - Text 'Gsn' is set on object 'Object Repository/Datadriven_OR/Last name'
+
+2019-02-02 18:33:26 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Username"), Username): Text 'raj@gmail.om' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:33:35 - [MESSAGE][PASSED] - Text 'raj@gmail.om' is set on object 'Object Repository/Datadriven_OR/Username'
+
+2019-02-02 18:33:35 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Password"), Password): Text 'Raju123$' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:33:44 - [MESSAGE][PASSED] - Text 'Raju123$' is set on object 'Object Repository/Datadriven_OR/Password'
+
+2019-02-02 18:33:44 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Confirm"), Confirm): Text 'Raju123$' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:33:53 - [MESSAGE][PASSED] - Text 'Raju123$' is set on object 'Object Repository/Datadriven_OR/Confirm'
+
+2019-02-02 18:33:53 - [TEST_STEP][PASSED] - click(findTestObject("Datadriven_OR/Next")): Object: 'Object Repository/Datadriven_OR/Next' is clicked on
+
+2019-02-02 18:33:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Datadriven_OR/Next' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-02-02 18:29:07 - [TEST_SUITE][PASSED] - Datadriven: Test Cases/Datadriven]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

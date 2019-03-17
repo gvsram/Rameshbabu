@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Testhook" time="90" tests="2" failures="0" errors="0">
+   <testsuite name="Testhook" tests="2" failures="0" errors="0" time="90" timestamp="2019-03-17 20:40:22" hostname="Ramesh - TEJA" id="Test Suites/Testhook">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Ramesh\\Katalon Studio\\Rameshbabu\\Reports\\Testhook\\20190317_204016"/>
+         <property name="logFiles" value="C:\\Users\\Ramesh\\Katalon Studio\\Rameshbabu\\Reports\\Testhook\\20190317_204016\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ramesh - TEJA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="browser" value="Chrome 72.0.3626.121"/>
+         <property name="hostAddress" value="192.168.0.117"/>
+         <property name="sessionId" value="20b05945beb57b01c63c3cff0e2f4a82"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestListener" classname="Test Cases/TestListener" status="PASSED">
+         <system-out><![CDATA[2019-03-17 20:40:23 - [TEST_CASE][PASSED] - Test Cases/TestListener: Test Cases/TestListener
+
+2019-03-17 20:40:23 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Browser is opened with url: 'https://www.nopcommerce.com/'
+
+2019-03-17 20:40:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2019-03-17 20:40:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2019-03-17 20:40:23 - [TEST_STEP][PASSED] - openBrowser("https://www.nopcommerce.com/"): Browser is opened with url: 'https://www.nopcommerce.com/'
+
+2019-03-17 20:40:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-17 20:40:24 - [MESSAGE][INFO] - Action delay is set to 2 seconds
+
+2019-03-17 20:40:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.nopcommerce.com/'
+
+2019-03-17 20:40:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-03-17 20:40:48 - [MESSAGE][PASSED] - Current window maximized
+
+2019-03-17 20:40:48 - [TEST_STEP][PASSED] - click(findTestObject("Nopcommerce/Products")): Object: 'Object Repository/Nopcommerce/Products' is clicked on
+
+2019-03-17 20:40:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Nopcommerce/Products' is clicked on
+
+2019-03-17 20:40:53 - [TEST_STEP][PASSED] - click(findTestObject("Nopcommerce/Downloads")): Object: 'Object Repository/Nopcommerce/Downloads' is clicked on
+
+2019-03-17 20:40:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Nopcommerce/Downloads' is clicked on
+
+2019-03-17 20:40:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+2019-03-17 20:40:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2019-03-17 20:40:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2019-03-17 20:40:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-03-17 20:41:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestListener1" classname="Test Cases/TestListener1" status="PASSED">
+         <system-out><![CDATA[2019-03-17 20:41:00 - [TEST_CASE][PASSED] - Test Cases/TestListener1: Test Cases/TestListener1
+
+2019-03-17 20:41:00 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Browser is opened with url: 'https://www.nopcommerce.com/'
+
+2019-03-17 20:41:00 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2019-03-17 20:41:00 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2019-03-17 20:41:00 - [TEST_STEP][PASSED] - openBrowser("https://www.nopcommerce.com/"): Browser is opened with url: 'https://www.nopcommerce.com/'
+
+2019-03-17 20:41:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-17 20:41:15 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.nopcommerce.com/'
+
+2019-03-17 20:41:15 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-03-17 20:41:18 - [MESSAGE][PASSED] - Current window maximized
+
+2019-03-17 20:41:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Nopcommerce/Registerlink")): Object: 'Object Repository/Nopcommerce/Registerlink' is clicked on
+
+2019-03-17 20:41:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Nopcommerce/Registerlink' is clicked on
+
+2019-03-17 20:41:25 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Datadriven1/FirstName"), "Rameshbabu"): Text 'Rameshbabu' is set on object 'Object Repository/Datadriven_OR/Datadriven1/FirstName'
+
+2019-03-17 20:41:34 - [MESSAGE][PASSED] - Text 'Rameshbabu' is set on object 'Object Repository/Datadriven_OR/Datadriven1/FirstName'
+
+2019-03-17 20:41:34 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Datadriven1/Lastname"), "Gvs"): Text 'Gvs' is set on object 'Object Repository/Datadriven_OR/Datadriven1/Lastname'
+
+2019-03-17 20:41:42 - [MESSAGE][PASSED] - Text 'Gvs' is set on object 'Object Repository/Datadriven_OR/Datadriven1/Lastname'
+
+2019-03-17 20:41:42 - [TEST_STEP][PASSED] - setText(findTestObject("Datadriven_OR/Datadriven1/E-Mail"), "ramgvs4@gmail.com"): Text 'ramgvs4@gmail.com' is set on object 'Object Repository/Datadriven_OR/Datadriven1/E-Mail'
+
+2019-03-17 20:41:50 - [MESSAGE][PASSED] - Text 'ramgvs4@gmail.com' is set on object 'Object Repository/Datadriven_OR/Datadriven1/E-Mail'
+
+2019-03-17 20:41:50 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+2019-03-17 20:41:50 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2019-03-17 20:41:50 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+2019-03-17 20:41:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-03-17 20:41:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-03-17 20:40:22 - [TEST_SUITE][PASSED] - Testhook: Test Cases/TestListener1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

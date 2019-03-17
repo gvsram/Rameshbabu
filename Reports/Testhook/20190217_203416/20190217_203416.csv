@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Testhook,Chrome 72.0.3626.109,,2019-02-17 20:34:24,2019-02-17 20:35:10,46.095s,FAILED
+,,,,,,
+Test Cases/Testlisteners,Chrome 72.0.3626.109,,2019-02-17 20:34:25,2019-02-17 20:35:09,44.051s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-17 20:34:25,2019-02-17 20:34:26,1.125s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-17 20:34:26,2019-02-17 20:34:27,0.064s,ERROR
+"openBrowser("""")",Chrome 72.0.3626.109,,2019-02-17 20:34:27,2019-02-17 20:35:01,33.547s,PASSED
+"setText(findTestObject(""Login""), ""ramgvs4@gmail.com"")",Chrome 72.0.3626.109,,2019-02-17 20:35:01,2019-02-17 20:35:06,5.501s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-17 20:35:06,2019-02-17 20:35:09,3.170s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-17 20:35:09,2019-02-17 20:35:09,0.020s,PASSED

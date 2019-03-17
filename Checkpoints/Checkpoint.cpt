@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\Ramesh\Desktop\Book1.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2019-02-02T21:36:15.757</taken-date>
+   <column-names>
+      <column-name>First name</column-name>
+      <column-name>Last name</column-name>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+      <column-name>Confirm</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Rameshbabu",
+      "checked": true
+    },
+    {
+      "value": "Gvs",
+      "checked": true
+    },
+    {
+      "value": "ramgvs4@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Ramesh123$",
+      "checked": true
+    },
+    {
+      "value": "Ramesh123$",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Rameshbab0",
+      "checked": true
+    },
+    {
+      "value": "Gva",
+      "checked": true
+    },
+    {
+      "value": "ramgvs3@gmai.com`",
+      "checked": true
+    },
+    {
+      "value": "Ramesh123",
+      "checked": true
+    },
+    {
+      "value": "Ramesh123",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
